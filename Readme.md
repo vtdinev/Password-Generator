@@ -1,1 +1,1 @@
-# Just a simple Hello World program
+# Simple random password generator
