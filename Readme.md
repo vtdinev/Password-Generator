@@ -1,1 +1,0 @@
-# Simple random password generator
