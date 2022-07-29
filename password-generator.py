@@ -17,14 +17,7 @@ for char in range(1, nr_symbols +1):
 for char in range(1, nr_numbers +1):
     password_list += random.choice(numbers)
 
-#IN ORDER
-#print(password_list)
-
-#SHUFFLE
-#random.shuffle(password_list)
-
-#PRINTING IT SHUFFLED
-#print(password_list)
+random.shuffle(password_list)
 
 password = ""
 for char in password_list:
